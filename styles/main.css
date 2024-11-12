@@ -1,0 +1,96 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.bottom-info {
+    padding: 45px 45px 30px 45px;
+}
+
+.bottom-info img {
+    width: 76px;
+    height: 76px;
+}
+
+.contact-info {
+    padding-left: 38px;
+}
+
+.contact {
+    font-size: 8px;
+    color: rgba(0, 0, 0, 60%);
+}
+
+.contact-h2 {
+    padding-top: 24px;
+    font-size: 15px;
+}
+
+.contact-text {
+    font-size: 13px;
+    color: var(--light-grey);
+    padding-top: 10px;
+}
+
+.item-name-text {
+    font-size: 11px;
+    color: var(--light-grey2);
+    padding-left: 45px;
+}
+
+.item-headings {
+    font-size: 10px;
+    padding-bottom: 5px;
+}
+
+.period {
+   font-size: 9px;
+   color: var(--light-grey);
+   padding-bottom: 8px;
+}
+
+.place-of-work {
+   padding-left: 60px;
+}
+
+.duites {
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.duties-text {
+   font-size: 9px;
+   color: var(--light-grey);
+}
+
+.education-block {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.education {
+    padding-left: 65px;
+}
+
+.english {
+    padding-left: 60px;
+}
+
+.skills-list {
+    padding-left: 90px;
+}
+
+.skills {
+    padding-top: 30px;
+}
+
+.skills-text {
+    padding-right: 16px;
+    font-size: 9px;
+    color: var(--light-grey);
+}
+
+.links {
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
